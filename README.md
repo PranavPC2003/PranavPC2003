@@ -1,7 +1,7 @@
 
 <h3 title="hehehe"> Hi There! 👋</h3>
 
-<a href="www.linkedin.com/in/pranavchauhan03">
+<a href="https://www.linkedin.com/in/pranavchauhan03/">
   <img align="left" alt="Pranav's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pc.0_0.bc/">
